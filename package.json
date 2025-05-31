@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By Miracle-mmp",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --MIRA-XD",
+    "start": "pm2 start index.js --deep-monitoring --attach -- name MIRA-XD",
     "stop": "pm2 stop MIRA-XD",
     "restart": "pm2 restart MIRA-XD"
   },
