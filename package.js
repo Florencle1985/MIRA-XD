@@ -1,7 +1,7 @@
 {
   "name": "MIRA-XD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot  Created By Miracle-mmp",
+  "description": "A WhatsApp Bot Created By Miracle-mmp",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --MIRA-XD",
