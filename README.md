@@ -6,3 +6,16 @@
   <img src="https://files.catbox.moe/odekje.jpg" width="800"/>
 </p>
 ---
+
+
+Click the button below to fork the repository and get your own copy:
+
+[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/Florencle1985/fork)
+
+---
+
+## ⚙️ PORTAL
+
+[![PORTAL QR OR PAIR ](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://inconnu-boy-tech-web-aq65.vercel.app/)
+
+---
