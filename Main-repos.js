@@ -48,7 +48,8 @@ async (conn, mek, m, { from, reply }) => {
 > *MADE BY MIRACLE-MMP*`;
 
         await conn.sendMessage(from, {
-            image: { url: `your img url ` },
+            image: { url: `https://files.catbox.moe/odekje.jpg
+            ` },
             caption: message,
             contextInfo: { 
                 mentionedJid: [m.sender],
