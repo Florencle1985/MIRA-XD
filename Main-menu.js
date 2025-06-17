@@ -66,7 +66,7 @@ async (conn, mek, m, { from, reply }) => {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterName: config.OWNER_NAME || 'your name',
+          newsletterName: config.OWNER_NAME || 'Miracle mmp',
           serverMessageId: 143
         }
       }
